@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "frases",
+  "info": {
+    "singularName": "frase",
+    "pluralName": "frases",
+    "displayName": "frase"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "frase": {
+      "type": "text"
+    },
+    "autor": {
+      "type": "string"
+    }
+  }
+}
